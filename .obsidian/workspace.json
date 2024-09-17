@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Metodologia de Pesquisa para C.C./1. Introdução/Introdução.md",
+                "file": "Metodologia de Pesquisa para C.C./2. A computação e classificação das ciências/2.2 Ciências formais e Empíricas.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Metodologia de Pesquisa para C.C./1. Introdução/Introdução.md",
+                "file": "Metodologia de Pesquisa para C.C./2. A computação e classificação das ciências/2.2 Ciências formais e Empíricas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Metodologia de Pesquisa para C.C./1. Introdução/Introdução.md",
+                "file": "Metodologia de Pesquisa para C.C./2. A computação e classificação das ciências/2.2 Ciências formais e Empíricas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Metodologia de Pesquisa para C.C./1. Introdução/Introdução.md"
+                "file": "Metodologia de Pesquisa para C.C./2. A computação e classificação das ciências/2.2 Ciências formais e Empíricas.md"
               }
             }
           },
@@ -157,8 +157,11 @@
   },
   "active": "df689261b3c5df5e",
   "lastOpenFiles": [
-    "Metodologia de Pesquisa para C.C./Untitled.md",
+    "Metodologia de Pesquisa para C.C./2. A computação e classificação das ciências/2.1 Ciência e suas classificações.md",
+    "Metodologia de Pesquisa para C.C./2. A computação e classificação das ciências/2.2 Ciências formais e Empíricas.md",
+    "Metodologia de Pesquisa para C.C./2. A computação e classificação das ciências/2.0 Introdução.md",
     "Metodologia de Pesquisa para C.C./1. Introdução/Introdução.md",
+    "Metodologia de Pesquisa para C.C./Untitled.md",
     "Metodologia de Pesquisa para C.C./Considerações.md",
     "Welcome.md",
     "create a link.md",
